@@ -1,5 +1,6 @@
 package com.company;
 
+
 public class Main {
 
     public static void main(String[] args) {
@@ -64,6 +65,8 @@ public class Main {
         int lenthoffishlist = pond_o_fish.length;
 
         int catchamount = 3;
+
+
 
         while (catchamount > 0) {
 
